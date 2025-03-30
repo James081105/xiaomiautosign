@@ -14,7 +14,7 @@
 
 ## 环境要求
 
-- Python 3.6+
+- Python 3
 - requests 库
 
 ## 安装步骤
@@ -23,7 +23,7 @@
 
 2. 安装依赖包：
 ```bash
-pip install -r requirements.txt
+pip install request
 ```
 
 ## 使用方法
